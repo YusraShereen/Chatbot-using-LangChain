@@ -81,7 +81,7 @@ Please refer to [Code File](Chatbot using LangChain.ipynb) for the above use cas
 
 ## Contributing
 
-Contributions are welcome! Please look at the [Contributions](Contributing) CONTRIBUTING.md file for more details.
+Contributions are welcome! Please look at the [Contributions](Contributing.md) CONTRIBUTING.md file for more details.
 
 ## License
 
