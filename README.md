@@ -77,11 +77,11 @@ Ask questions about the contents of an image using LangChain.
 
 ## Code
 
-Please refer to [Code File](Chatbot using LangChain.ipynb) for the above use cases.
+Please refer to [Code File](Chatbot_using_LangChain.ipynb) for the above use cases.
 
 ## Contributing
 
-Contributions are welcome! Please look at the [Contributions](Contributing.md) CONTRIBUTING.md file for more details.
+Contributions are welcome! Please look at the [Contributions](Contributing.md) for more details.
 
 ## License
 
