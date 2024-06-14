@@ -13,7 +13,7 @@ This repository demonstrates the integration of LangChain with the GeminiPro vis
   - [Converting Invoice to JSON Using LangChain](#converting-invoice-to-json-using-langchain)
   - [Extracting Image Label using LangChain](#extracting-image-label-using-langchain)
   - [Questioning about Image](#questioning-about-image)
-- [Code]
+- [Code](#code)
 - [Contributing](#contributing)
 - [License](#license)
 
